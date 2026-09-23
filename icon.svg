@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="118" fill="#1565c0"/>
-  <circle cx="410" cy="98" r="95" fill="none" stroke="#fbc02d" stroke-opacity=".10" stroke-width="34"/>
-  <text x="256" y="303" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="170" font-weight="800" fill="#ffffff">LT</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><rect width="512" height="512" rx="118" fill="#0f2747"/><circle cx="410" cy="102" r="108" fill="#64748b" fill-opacity=".34"/><circle cx="86" cy="430" r="92" fill="#334155" fill-opacity=".72"/><text x="256" y="304" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="170" font-weight="800" fill="#e2e8f0">LT</text></svg>
